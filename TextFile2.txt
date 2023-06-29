@@ -1,0 +1,8 @@
+﻿Nombres: Josue Samuel
+Apellios: Philco Puma
+Sexo: Masculino
+Email: jphilco@unsa.edu.pe
+Direccion: Arequipa
+Ciudad: Arequipa
+Requerimientos: Estudiante
+
